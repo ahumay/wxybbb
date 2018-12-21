@@ -3,6 +3,7 @@
 //
 #include "index.h"
 
+
 //磁盘分配
 void allot(int length)
 {
